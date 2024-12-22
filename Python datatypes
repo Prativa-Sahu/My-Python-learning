@@ -1,4 +1,4 @@
 There are 3 types of datatypes are available in python
-1. Bsic Types: 
-2. Container type
+1. Bsic Types: interger, float, string, boolean & complex
+2. Container type: list, tuple, dictionary, set
 3. user defined type
